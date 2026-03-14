@@ -1,170 +1,184 @@
 # 👨‍💻 Andy Ortiz
 
-🚀 **Software Engineering Student | AI System Builder | Founder of GuambraWeb**
+🚀 **Estudiante de Ingeniería en Software | Constructor de Sistemas con IA | Fundador de GuambraWeb**
 
 ---
 
-## 🧠 About Me
+## 🧠 Sobre mí
 
-Hi, I'm **Andy Ortiz**, a software engineering student passionate about building **real-world systems powered by Artificial Intelligence**.
+Soy **Andy Ortiz**, estudiante de **Ingeniería en Software** apasionado por construir **sistemas reales que resuelven problemas de negocios utilizando Inteligencia Artificial**.
 
-I focus on creating **complete software solutions**, from architecture and database design to automation and intelligent systems.
+Me enfoco en diseñar y desarrollar **plataformas completas**, desde la arquitectura del sistema hasta la automatización con IA.
 
-My goal is not just to write code, but to **build technology that solves real problems and scales into products.**
+Creo firmemente que el futuro del desarrollo de software combina:
 
-Currently, I am developing software systems using **AI-assisted development**, accelerating the creation of modern platforms, SaaS systems and automation tools.
+* ⚡ Inteligencia Artificial
+* ⚡ Arquitectura escalable
+* ⚡ Automatización
+* ⚡ Iteración rápida de productos
 
----
-
-## 🚀 Founder of GuambraWeb
-
-**GuambraWeb** is an initiative to build a **community and team of developers** focused on creating modern digital products.
-
-The vision is to unite programmers to build:
-
-- SaaS platforms
-- AI powered systems
-- Scalable digital tools
-- Startups with global potential
-
-🌎 The mission is simple:
-
-> Build technology in Latin America that can compete globally.
+Mi objetivo es **crear tecnología que evolucione hacia startups y plataformas SaaS globales.**
 
 ---
 
-## 🧠 My Development Philosophy
+# 🚀 GuambraWeb
 
-I believe the future of software development combines:
+🌐 **Sitio web:**
+https://guambraweb.com
 
-⚡ Artificial Intelligence  
-⚡ Human creativity  
-⚡ Scalable architecture  
-⚡ Rapid iteration
+**GuambraWeb** es una iniciativa que busca crear un **equipo de desarrolladores con identidad propia**, enfocado en construir productos digitales modernos.
 
-Using AI tools allows me to **design, prototype and launch systems much faster** than traditional development.
+La visión es reunir programadores para desarrollar:
 
----
+* Plataformas SaaS
+* Sistemas con Inteligencia Artificial
+* Software empresarial a medida
+* Startups tecnológicas
 
-## 🏗️ Systems I Build With AI
-
-Here are examples of the types of systems I create:
-
-### 🧵 SaaS Management Platforms
-Complete digital platforms designed for real businesses.
-
-Features include:
-
-- Multi-tenant architecture
-- Inventory systems
-- Rental management
-- Online store integration
-- Automated workflows
-- Business analytics
+> La meta es construir tecnología desde Latinoamérica que pueda competir globalmente.
 
 ---
 
-### 👘 Traditional Clothing Rental Management System
+# 🧠 Desarrollo de Software con IA
 
-A **full SaaS platform** designed to manage traditional clothing rental businesses.
+Utilizo **herramientas de Inteligencia Artificial para acelerar el desarrollo de sistemas completos**, permitiendo crear software más rápido y con mayor capacidad de iteración.
 
-Core modules include:
+La IA me ayuda en:
 
-- Inventory management
-- Availability tracking
-- Rental management
-- Stock control by size
-- Business analytics
-- Integrated online store
+* generación de código
+* diseño de arquitectura
+* modelado de bases de datos
+* optimización de sistemas
+* prototipado rápido
+* automatización de procesos
 
-This platform is designed to **modernize traditional clothing businesses through technology.**
-
----
-
-### 🧠 AI Assisted Software Development
-
-I actively use **AI development tools** to accelerate system creation, including:
-
-- Code generation
-- Architecture design
-- Database modeling
-- Automation
-- UI prototyping
-- System optimization
-
-This allows me to build **complex platforms faster and with higher iteration speed.**
+Esto permite construir **plataformas complejas en tiempos mucho más cortos que el desarrollo tradicional.**
 
 ---
 
-## 🛠️ Technologies & Tools
+# 🏗️ Sistemas que desarrollo
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+## 💻 Sistemas SaaS
 
-### Backend & Infrastructure
-![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
+Plataformas completas para negocios con funcionalidades como:
 
-### Development Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-
-### AI Development
-Artificial Intelligence assisted development tools for:
-
-- system architecture
-- automation
-- rapid prototyping
-- software generation
+* arquitectura **multitenant**
+* gestión de inventarios
+* control de stock
+* paneles administrativos
+* automatización de procesos
+* integración con tiendas online
+* analítica de negocio
 
 ---
 
-## 📚 Currently Learning
+## 👘 MisTrajes (en desarrollo)
 
-As a **Software Engineering student**, I am focusing on:
+🌐 https://mistrajes.com
 
-- Software architecture
-- Artificial Intelligence
-- SaaS systems
-- Scalable backend development
-- Automation systems
+**MisTrajes** es una plataforma **SaaS multitenant** diseñada para la **gestión de alquiler de trajes tradicionales**.
 
-My long-term goal is to pursue a **Master's degree in Artificial Intelligence.**
+El sistema permitirá a negocios gestionar:
 
----
+* inventario de prendas
+* disponibilidad de trajes
+* control de alquileres
+* stock por tallas
+* gestión de clientes
+* analítica del negocio
+* integración con tienda online
 
-## 🤝 Open to Collaboration
-
-I'm interested in collaborating with developers who want to build:
-
-- SaaS platforms
-- AI powered tools
-- Startups
-- scalable systems
-
-If you're a developer who wants to **build real projects**, you're welcome to join the vision.
+El objetivo es **modernizar negocios tradicionales mediante tecnología.**
 
 ---
 
-## 📬 Contact
+## 🏢 Sistemas de gestión a medida
 
-📧 Personal Email  
-**andyortiz.ec@gmail.com**
+También desarrollo **sistemas personalizados para negocios**, adaptados a sus necesidades específicas.
 
-📧 GuambraWeb  
-**guambraweb@gmail.com**
+Ejemplos de soluciones:
 
----
-
-## 🌎 Vision
-
-Technology is evolving rapidly.
-
-Developers who learn to **build with AI instead of competing against it** will define the next generation of software companies.
-
-My mission is to **build systems, teams and startups that embrace this future.**
+* gestión de inventarios
+* plataformas administrativas
+* automatización de procesos
+* sistemas web empresariales
 
 ---
 
-⭐ If you like what I build, feel free to follow my work.
+# 🌐 Portafolio de proyectos
+
+Algunos proyectos web desarrollados:
+
+🔹 https://chakanaecuador.com/
+🔹 https://lipoesculturaecuador.com/
+🔹 https://www.fibraexpress.net.ec/
+
+---
+
+# 🛠️ Tecnologías y herramientas
+
+### Lenguajes
+
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge\&logo=typescript)
+
+### Backend y Base de Datos
+
+![NodeJS](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge\&logo=supabase)
+
+### Herramientas
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+
+---
+
+# 📚 Actualmente enfocado en
+
+Como estudiante de ingeniería en software estoy profundizando en:
+
+* Arquitectura de software
+* Sistemas SaaS
+* Desarrollo backend escalable
+* Inteligencia Artificial aplicada al software
+* Automatización de procesos
+
+Mi objetivo a futuro es especializarme mediante una **maestría en Inteligencia Artificial.**
+
+---
+
+# 🤝 Colaboración
+
+Estoy interesado en conectar con **programadores que quieran construir proyectos reales**.
+
+Si quieres participar en la visión de **GuambraWeb** y crear tecnología juntos, puedes escribirme.
+
+---
+
+# 📬 Contacto
+
+📧 **Correo personal**
+[andyortiz.ec@gmail.com](mailto:andyortiz.ec@gmail.com)
+
+📧 **GuambraWeb**
+[guambraweb@gmail.com](mailto:guambraweb@gmail.com)
+
+🌐 **Sitio web**
+https://guambraweb.com
+
+---
+
+# 🌎 Visión
+
+La próxima generación de desarrolladores no solo escribirá código.
+
+Construirá **sistemas completos utilizando Inteligencia Artificial como herramienta de creación**.
+
+Mi misión es:
+
+> Construir sistemas, equipos y startups tecnológicas que aprovechen esta nueva forma de desarrollar software.
+
+---
+
+⭐ Gracias por visitar mi perfil.
