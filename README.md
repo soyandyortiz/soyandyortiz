@@ -6,27 +6,28 @@
 
 ## 🧠 Sobre mí
 
-🎓 Universidad Politécnica Salesiana  
-🚀 Construyendo soluciones reales con **Inteligencia Artificial + SaaS**  
-💼 Fundador de **GuambraWeb**  
+| 🎓 Formación | 💼 Enfoque | 🚀 Objetivo |
+|-------------|-----------|------------|
+| Universidad Politécnica Salesiana | Desarrollo Web + IA | Crear sistemas SaaS escalables |
 
 ---
 
 ## 🚀 Ecosistema
 
-### 🌐 GuambraWeb  
-🔹 Desarrollo web moderno  
-🔹 Sistemas a medida  
-🔹 Enfoque en negocios reales  
-
-### 👘 MisTrajes by GuambraWeb  
-🔹 SaaS **Multitenant**  
-🔹 Gestión de alquiler de trajes y disfraces  
-🔹 Inventario + clientes + analítica  
+| 🌐 Proyecto | 📌 Descripción | ⚙️ Tipo |
+|------------|--------------|--------|
+| **GuambraWeb** | Desarrollo web, software a medida y soluciones digitales | Marca / Negocio |
+| **MisTrajes** | SaaS multitenant para alquiler de trajes y disfraces | Producto |
 
 ---
 
-## 🛠️ Tech Stack
+## 🧩 Tech & Skills
+
+<table>
+<tr>
+<td width="50%">
+
+### 🛠️ Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
@@ -34,14 +35,15 @@
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
----
+</td>
 
-## 📊 Skills
+<td width="50%">
+
+### 📊 Skills
 
 ```text
 💻 Desarrollo Web        ██████████ 90%
 ⚙️ Backend / APIs        █████████░ 85%
 🧠 Arquitectura SaaS     █████████░ 85%
 🎨 Diseño Gráfico        ████████░░ 75%
-📈 Marketing & Ventas    ███████░░░ 70%
-📱 Redes Sociales        ███████░░░ 70%
+📈 Marketing / Ventas    ███████░░░ 70%
